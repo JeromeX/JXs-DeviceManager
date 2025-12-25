@@ -50,6 +50,9 @@ Dieses Tool greift tief in die Windows-Systemkonfiguration ein. Das Entfernen kr
 4. **Hilfe:** Klicke auf das rote **?** oben rechts für detaillierte Informationen.
 
 ---
+<img width="1002" height="747" alt="2025-12-25 13_16_01-Device Manager ULTIMATE _ Pro Edition" src="https://github.com/user-attachments/assets/7cf840e8-4b7d-440a-b1dd-431c8ba38d33" />
+<img width="1004" height="747" alt="2025-12-25 13_16_24-Device Manager ULTIMATE _ Pro Edition" src="https://github.com/user-attachments/assets/cb81f542-e468-4dcf-b438-3ed916018f0c" />
+---
 
 ## 👤 Autor
 
